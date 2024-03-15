@@ -1,0 +1,159 @@
+h3
+{
+    color: rgb(150, 8, 8);
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor
+{
+    background-color: bisque;
+    border-color: red;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.caja
+{
+    margin: 15px;
+    background-color: rgb(78, 114, 102);
+    width: 180px;
+    height: 180px;
+    border-style: solid;
+    border-color: chocolate;
+}
+h4
+{
+    color: rgb(99, 19, 19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.caja2
+{
+    margin: 15px;
+    background-color: goldenrod;
+    width: 540px;
+    height: 180px;
+    border-style: solid;
+    border-color: chocolate;
+}
+.caja2-1
+{
+    margin: 20px;
+    background-color: blanchedalmond;
+    width: 480px;
+    height: 50px;
+    border-style: solid;
+    border-color: chocolate; 
+}
+.caja2-2
+{
+    margin: 20px;
+    background-color: rgb(136, 105, 61);
+    width: 480px;
+    height: 50px;
+    border-style: solid;
+    border-color: chocolate; 
+}
+.caja3
+{
+    margin: 15px;
+    background-color: rgb(78, 114, 102);
+    background: linear-gradient(rgb(105, 57, 57), rgb(65, 107, 65));
+    width: 180px;
+    height: 180px;
+    border-style: solid;
+    border-color: chocolate;
+}
+
+.almacenamiento
+{
+    width: 1000px;
+    height: 600px;
+    background-color: bisque;
+    border-color: red;
+    border-style: solid;
+    
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+    
+
+}
+.estuche
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+    border-style: solid;
+    border-color: rgb(111, 111, 247);
+    font-size: 15px;
+}
+.estuche1
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+    border-style: solid;
+    border-color: rgb(118, 118, 245);
+    font-size: 15px;
+    grid-column: 1/5;
+}
+.estuche2
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+    border-style: solid;
+    border-color: rgb(115, 115, 241);
+    font-size: 15px;
+    grid-column: 1/3;
+}
+.estuche6
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+    border-style: solid;
+    border-color: rgb(119, 119, 241);
+    font-size: 15px;
+    grid-column: 2/5;
+}
+.estuche7
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+    
+    border-style: solid;
+    border-color: rgb(111, 111, 240);
+    font-size: 15px;
+    grid-column: 1/3;
+}
+.estuche8
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+   
+    border-style: solid;
+    border-color: rgb(121, 121, 241);
+    font-size: 15px;
+    grid-column: 3/5;
+    
+    
+}
+.estuche9
+{
+    margin: 5px;
+    background-color: rgb(153, 139, 57);
+    border-style: solid;
+    border-color: rgb(114, 114, 240);
+    font-size: 15px;
+    grid-column: 3/5;
+    
+    
+}
+
+
+
+
+
+
